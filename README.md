@@ -5,6 +5,5 @@
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/ios/ios-17/)
 
 ### 📱 设备
-[![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/zh-cn/111849)
-[![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X%20MIKU-00BBFF?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=00BBFF)](https://www.mi.com/a/h/6181.html)
-[![Xiaomi 2s](https://img.shields.io/badge/Xiaomi%202s-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://detail.zol.com.cn/series/57/15853_1.html)
+[![iPhone Xs](https://img.shields.io/badge/iPhone%2014%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/zh-cn/111849)
+[![Xiaomi MIX 2S](https://img.shields.io/badge/Xiaomi%202s-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://detail.zol.com.cn/series/57/15853_1.html)
